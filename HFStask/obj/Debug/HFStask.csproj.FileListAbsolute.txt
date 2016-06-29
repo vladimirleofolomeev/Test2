@@ -1,0 +1,12 @@
+D:\Folomeev\Programming\2016\HFStask\HFStask\bin\Debug\HFStask.exe.config
+D:\Folomeev\Programming\2016\HFStask\HFStask\bin\Debug\HFStask.exe
+D:\Folomeev\Programming\2016\HFStask\HFStask\bin\Debug\HFStask.pdb
+D:\Folomeev\Programming\2016\HFStask\HFStask\obj\Debug\HFStask.csprojResolveAssemblyReference.cache
+D:\Folomeev\Programming\2016\HFStask\HFStask\obj\Debug\HFStask.exe
+D:\Folomeev\Programming\2016\HFStask\HFStask\obj\Debug\HFStask.pdb
+D:\Projects\Тесты\HFStask\HFStask\bin\Debug\HFStask.exe.config
+D:\Projects\Тесты\HFStask\HFStask\obj\Debug\HFStask.exe
+D:\Projects\Тесты\HFStask\HFStask\obj\Debug\HFStask.pdb
+D:\Projects\Тесты\HFStask\HFStask\bin\Debug\HFStask.exe
+D:\Projects\Тесты\HFStask\HFStask\bin\Debug\HFStask.pdb
+D:\Projects\Тесты\HFStask\HFStask\obj\Debug\HFStask.csprojResolveAssemblyReference.cache
